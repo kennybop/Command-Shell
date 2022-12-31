@@ -1,14 +1,5 @@
 CS 61 Problem Set 5
-===================
 
-**Fill out both this file and `AUTHORS.md` before submitting.** We grade
-anonymously, so put all personally identifying information, including
-collaborators, in `AUTHORS.md`.
+Used fork, exec, pipe, and several other interesting system calls to build a command shell.
 
-Grading notes (if any)
-----------------------
-
-
-
-Extra credit attempted (if any)
--------------------------------
+For more info: https://cs61.seas.harvard.edu/site/2022/Shell/#gsc.tab=0
